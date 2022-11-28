@@ -1,8 +1,8 @@
 ## Techniques
 
-* [Shape Up](../adobt/techniques.shape-up)
-* [Linear Method](../assess/techniques.shape-up)
-* [Laravel Beyond CRUD](../adobt/techniques.laravel-beyond-crud)
+* [Shape up](../Shape-up)
+* [Linear Method](../Linear-method)
+* [Laravel Beyond CRUD](../Laravel-beyond-CRUD)
 
 ## Tools
 
