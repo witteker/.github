@@ -1,5 +1,5 @@
 ## Techniques
-* [Shape up](./[Techniques]-Shape-up)
+* [Shape up]([Techniques]-Shape-up)
 * [Linear Method](./[Techniques]-Linear-Method)
 * [Laravel Beyond CRUD](./[Techniques]-Laravel-beyond-CRUD)
 
