@@ -1,5 +1,3 @@
-# 📡 Technology Radar
-
 ## ✅ Adobt
 
 ### Techniques:
