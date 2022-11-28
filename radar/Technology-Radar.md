@@ -2,25 +2,25 @@
 
 ### Techniques:
 
-- [Shape up](./Shape-up)
-- [Laravel beyond CRUD](./Shape-up)
+- [Shape up](./[Techniques]-Shape-up)
+- [Laravel beyond CRUD](./[Techniques]-Laravel-beyond-CRUD)
 
 ### Tools:
 
-- [VS Code](./VS-Code)
-- [Git](./Git)
+- [VS Code](./[Tools]-VS-Code)
+- [Git](./[Tools]-Git)
 
 ### Platforms:
 
-- [GitHub](./GitHub)
-- [Basecamp](./Basecamp)
+- [GitHub](./[Platforms]-GitHub)
+- [Basecamp](./[Platforms]-Basecamp)
 
 ### Languages & Frameworks:
 
-- [Laravel](./Laravel)
-- [VueJS](./VueJS)
-- [InertiaJS](./InertiaJS)
-- [NuxtJS](./NuxtJS)
+- [Laravel](./[Languages-+-Frameworks]-Laravel)
+- [VueJS](./[Languages-+-Frameworks]-VueJS)
+- [InertiaJS](./[Languages-+-Frameworks]-InertiaJS)
+- [NuxtJS](./[Languages-+-Frameworks]-NuxtJS)
 
 ## 🔍 Trial
 

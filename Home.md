@@ -2,4 +2,4 @@
 
 ## Table of Contents
 
-- [Technology Radar](./radar/Technology-Radar)
+- [Technology Radar](./Technology-Radar)
