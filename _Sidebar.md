@@ -1,15 +1,15 @@
 ## Techniques
 
-* [Shape up](../Shape-up)
-* [Linear Method](../Linear-method)
-* [Laravel Beyond CRUD](../Laravel-beyond-CRUD)
+* [Shape up](./Shape-up)
+* [Linear Method](./Linear-method)
+* [Laravel Beyond CRUD](./Laravel-beyond-CRUD)
 
 ## Tools
 
-* [VS Code](../adobt/tools.vs-code)
-* [Git](../adobt/tools.vs-code)
-* [GitHub Projects](../trial/platforms.github-projects)
-* [Linear](../assess/tools.linear)
+* [VS Code](./VS-Code)
+* [Git](./Git)
+* [GitHub Projects](./GitHub-Projects)
+* [Linear](./Linear)
 
 ## Platforms
 
