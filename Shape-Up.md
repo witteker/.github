@@ -1,1 +1,0 @@
-[Shape Up](https://basecamp.com/shapeup) by Basecamp describes a development workflow based on projects... _(TODO)_
